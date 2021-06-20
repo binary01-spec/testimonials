@@ -21,7 +21,7 @@ body {
   display: grid;
   place-items: center;
   height: 100vh;
-  background-color: rgb(221, 221, 221);
+  background-color: hsl(210, 46%, 95%);
 }
 
 .container {
